@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FedUni Graphics Demos 30333504</string>
+
+    <string name="title_activity_smoke">Smoke</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
